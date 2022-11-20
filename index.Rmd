@@ -133,7 +133,15 @@ Planlegg tid til å se over!!!!!!!!
 - Strukturer lesesesjonen
   - 45 min lesing, 15 min pause, eks. 
   - Bruk pausen til å diskutere det du gikk leste
-  
+
+## Learning devices
+
+- Devices menes her som mentale konstruksjoner 
+- Så enkelt som tankekart
+- Nodalpunkter, Hierarkiske diagramer
+- Alle er ting som hjelper organisere informasjon
+  - Gjør det lettere å se sammenheng mellom info og tema
+
 ## Rundt lesing
 
 - Kollokvieaktiviteter er nyttige
@@ -142,19 +150,19 @@ Planlegg tid til å se over!!!!!!!!
 
 ## Kollokvier er gøy
 
-```{r, echo=FALSE, out.width="90%"}
+```{r, echo=FALSE, out.width="85%"}
 knitr::include_graphics("presImg/kollokvie1.jpg")
 ```
 
 ## Kollokvier er gøy
 
-```{r, echo=FALSE, out.width="90%"}
+```{r, echo=FALSE, out.width="85%"}
 knitr::include_graphics("presImg/kollokvie2.jpg")
 ```
 
 ## Kollokvier er gøy
 
-```{r, echo=FALSE, out.width="90%"}
+```{r, echo=FALSE, out.width="85%"}
 knitr::include_graphics("presImg/kollokvie3.jpg")
 ```
 
@@ -168,6 +176,10 @@ knitr::include_graphics("presImg/kollokvie4.jpg")
 
 - Ha minst et møte før eksamen
 - Summer opp hovedpunkter fra alle forelesninger
+- Finn en struktur på kollokvier som funker
+  - Vi pleide å gå gjennom forelesninger
+  - Skrive viktige momenter på tavle
+  - Slå opp i boka for hver slide
 
 ## Mot slutten
 
@@ -175,7 +187,35 @@ knitr::include_graphics("presImg/kollokvie4.jpg")
 - Bruk dagen ofte til kollokvier, men litt tid til lesing
 - Gå gjennom pensumlista, er jeg kjent med alt her?
 - Gå gjennom forelesningsnotatene
+  - Ta en titt på kvalifiseringsoppgavene også
 - Hent ut spesifikke ting, unngå intens lesing
+
+## Heuristikk
+
+- Fancy ord for måter å løse et problem på
+- Hvordan lærer jeg best, er et problem
+
+## Polya
+
+1. Understand the problem
+2. Make a plan to solve it
+3. Carry out the plan
+4. Having solved it, look back and analyze how you went about it
+
+## Polya fort.
+
+- Jeg vil vite hvordan jeg lærer
+1. Jeg har mange forskjellige redskap tilgjengelig for å lære
+2. En plan ~ Kanskje teste forskjellige metoder på forskjellige ting
+3. Gjør det
+4. Gå tilbake å analyser hva som funket best, og forstå *hvorfor* det funket
+
+## Polya
+
+- Egentlig litt juksing... Polya var mer interessert i matte
+  - Dette er egentlig litt meta-epistemologi
+- Viktigste er at du tenker over hvordan du tillegner deg informasjon
+  - Teknisk sett distinkt fra epistemologi
 
 ## Spørsmål
 
@@ -211,6 +251,7 @@ knitr::include_graphics("presImg/questiongif.gif")
 ```{r, echo=FALSE}
 knitr::include_graphics("presImg/silurveienveien.png")
 ```
+
 
 ## Selve dagen
 
