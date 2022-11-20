@@ -24,9 +24,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 - Fokuset i dag ligger på (forhåpentligvis) nyttige tips
 
-- blir dette publisert?
-
-[[NOE RELEVANT BILDE HER]]
+![plsnocri](presImg/sadrenge.gif)
 
 # Plan for i dag
 
@@ -47,7 +45,15 @@ knitr::opts_chunk$set(echo = TRUE)
 
 # Bekymringer, forventninger, store spørsmål
 
-[[BILDE AV NOEN BEKYMRET]]
+![relatable?](presImg/tensemio.gif)
+
+## Frykt ei, det skal gå bra
+
+![relatable?](presImg/thumbsup.gif)
+
+## En liten runde
+
+- Hva er deres største bekymringer/spørsmål rundt eksamen?
 
 # Vurderinger i STV
 
@@ -84,6 +90,18 @@ Planlegg tid til å se over!!!!!!!!
 # Forberede seg til eksamen
 
 ![er dere klare?](presImg/syllabusmeme.png)
+
+## Mine egne regler 
+
+- Litt mer helhetlig rundt et emne
+<br> <br>
+- Les alt to ganger, minst. 
+- Ha oversikt over hvor alt kommer fra
+  - Hva er emnets "samlingspunkt(er)"
+  - Metodologi? Forskningsdesign? Hvordan stater forholder seg til hverandre? Forvaltning?
+- Vit nok til å kunne si noe om alt
+  - Kunne si noe om:
+  - Etnografi, analyseenheter, filosofi, variabler, operasjonalisering
 
 ## Første skritt: Planlegg
 
@@ -154,12 +172,24 @@ knitr::include_graphics("presImg/kollokvie4.jpg")
 ## Mot slutten
 
 - Sett av en dag eller to til helhetlig oversikt
+- Bruk dagen ofte til kollokvier, men litt tid til lesing
+- Gå gjennom pensumlista, er jeg kjent med alt her?
+- Gå gjennom forelesningsnotatene
+- Hent ut spesifikke ting, unngå intens lesing
 
-# Gjennomføre en skoleeksamen
+## Spørsmål
+
+- Har dere noen flere spørsmål rundt det vi har snakket om?
+
+```{r, echo=FALSE}
+knitr::include_graphics("presImg/questiongif.gif")
+```
+
+# Gjennomføre en skoleeksamen 
 
 - Vi kan ta det fra starten 
 
-## Dagen før
+## Dagen før 
 
 - Ikke sitt for lenge dagen før
 - God søvn er det nyttigste du kan gjøre dagen før
@@ -219,6 +249,44 @@ knitr::include_graphics("presImg/silurveienveien.png")
 - Eliminer det du vet det ikke er
 - To timer beregnet, 20 min til å se over
 
+## La oss ta en titt på noen eksempler
+
+- STV1100 - H17
+- STV1400 - H17
+- STV1300 - V18
+- STV1200 - H18
+
+## Hjemmeeksamen
+
+- Mye av det samme
+<br> <br>
+- Les instruksen ***nøye***
+- Start med å tenke nøye på oppgaven
+  - Ta deg gjerne en gåtur
+- Begynn med nøkkelord, gjerne i en struktur
+  - Hva er relevant pensum?
+  - Proto-disposisjon
+- Som alltid: gi deg selv tid til revisjon
+
+## Planlegg!!
+
+```{r, echo=FALSE}
+examtable <- data.frame(Blokk = c("19. AM", "19. PM", "19. Kveld", "20. AM", "20. PM", "20. Kveld", "21. AM", "21. PM", "21. Kveld", "22. AM?"),
+                        Aktivitet = c("Disposisjon, Brainstorming", "Begynn skriving", "Ferdig intro", "Hoveddel", "Hoveddel", "Hoveddel/avslutning", "Dobbeltsjekk intro/hoveddel", "Revisjoner", "Revisjoner", "?"),
+                        Husk = c("Hva må jeg lese?", "Hvilke begreper skal med?", "Har jeg definert de viktigste begrepene?", "Svarer jeg på spørsmålet?", "Bruker jeg tydelig språk?", "Hva er svaret mitt egentlig?", "Har jeg definert alt godt?", "Har jeg brukt pensum godt?", "Er kildene riktig formattert?", "Er jeg fornøyd?"))
+
+knitr::kable(examtable, format = "html")
+```
+
+
+## Spørsmål
+
+- Har dere noen flere spørsmål rundt det vi har snakket om?
+
+```{r, echo=FALSE}
+knitr::include_graphics("presImg/questiongif.gif")
+```
+
 # Akademisk Skriving
 
 La oss snakke litt om hvordan man kan sikre at språket er godt når man leverer eksamen eller semesteroppgaver
@@ -236,7 +304,8 @@ La oss snakke litt om hvordan man kan sikre at språket er godt når man leverer
 - Vis at dere kan det
 - Sentrer oppgavebesvarelsen rundt fagbegrepene
 <br> <br>
-
+- "Mangelen på andre stater i opplegget gjør at det er vanskelig å si om dette gjelder for andre stater, eller stater generelt"
+- "Mangelen på andre stater i opplegget leder til lav ekstern validitet, dette er er problem når..."
 
 ## Struktur
 
@@ -249,17 +318,37 @@ La oss snakke litt om hvordan man kan sikre at språket er godt når man leverer
 
 - Bruk et tydelig språk
 - Vær litt bastant/selvsikker på formuleringene dine
-
+- Klargjør også begrepene så fort som mulig
+<br> <br>
+- "det kan hende at validitet på en måte har noe med hvor sikre vi er på svarene vi har fått"
+- "Validitet handler i det store og det hele om at vi vet hva resultatene våre er"
 
 ## Formalitet
 
 - Bruk et formelt språk
 - Burde ikke være vanskelig
 - Siter, om ikke formelt *riktig*
+<br> <br>
+- "I Celis og Erzeel på pensum, anvendes typisk casemetode, og dette eksempelet illusterer godt fordelene"
+
+## Spørsmål
+
+- Har dere noen flere spørsmål rundt det vi har snakket om?
+
+```{r, echo=FALSE}
+knitr::include_graphics("presImg/questiongif.gif")
+```
 
 # Semesteroppgaver
 
+- Ikke i fokus her, men verdt å si noe om
 
+## Planlegging
+
+- Planlegg tidlig i prosessen når du vil være ferdig
+- Sett av tid til å se over
+- Avtal med en venn, utveksling av oppgaver
+- Bruk seminarene for alt det er verdt (hvis relevant)
 
 # Oppsummering av seminaraktiviteter
 
@@ -313,7 +402,8 @@ La oss snakke litt om hvordan man kan sikre at språket er godt når man leverer
 # Til Neste Gang
 
 - Det er ingen neste gang :(
-- Med mindre vi ses i STV1020
+
+## Med mindre vi ses i STV1020
 
 ```{r, include=FALSE}
 
@@ -327,7 +417,20 @@ obj2 <- paste(obj, collapse = "")
 
 print(obj2)
 
+knitr::include_graphics("presImg/R.jpg")
+
 ```
+
+## Videre
+
+- Jeg vil uansett være tilgjengelig på e-post
+  - gardod@student.sv.uio.no 
+  - eller på canvas
+- Merk at jeg er i Canada fra 1.- 13. Desember
+  - Mulig svar blir litt sene under den tida
+- Kommer fortsatt til å være her litt i sent des
+  - Har ikke noe liv vettu
+  - Skal prøve å sjekke inn med folk hvis jeg ser dere
 
 ## Uansett
 
