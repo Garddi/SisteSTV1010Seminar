@@ -133,6 +133,12 @@ Planlegg tid til å se over!!!!!!!!
 - Strukturer lesesesjonen
   - 45 min lesing, 15 min pause, eks. 
   - Bruk pausen til å diskutere det du gikk leste
+  
+## Rundt lesing
+
+- Pauser er essensielle, sosialt, energimessig, og læringsmessig
+
+![havefuninsuffering](presImg/denjipower.gif)
 
 ## Learning devices
 
@@ -141,6 +147,17 @@ Planlegg tid til å se over!!!!!!!!
 - Nodalpunkter, Hierarkiske diagramer
 - Alle er ting som hjelper organisere informasjon
   - Gjør det lettere å se sammenheng mellom info og tema
+
+## Learning devices 
+
+- Alt henger faktisk sammen med alt
+
+. . .
+
+```{r, echo=FALSE, out.width="20%"}
+knitr::include_graphics("presImg/gro.jpg")
+```
+
 
 ## Rundt lesing
 
@@ -371,6 +388,30 @@ La oss snakke litt om hvordan man kan sikre at språket er godt når man leverer
 - Siter, om ikke formelt *riktig*
 <br> <br>
 - "I Celis og Erzeel på pensum, anvendes typisk casemetode, og dette eksempelet illusterer godt fordelene"
+
+## Passivt vs aktivt språk
+
+- Vi er sjeldent interessert i *hvem* som gjør noe, heller hvem som mottar eller opplever konsekvensene av den handlingen
+- Passiv skriving er viktig når:
+  - Du vil fokusere på tingen som blir påvirket
+  - Det er ikke viktig hvem som gjorde det
+  - Du vil være upersonlig eller formell
+- Form passiv stemme ved:
+  - Gjøre objektet i en aktiv stemme til subjektet
+  - Bruk preteritum eller perfektum
+  
+## Generelt om språk og det å se over
+
+- Sikre at man ikke gjentar seg
+- Ikke gjenta formuleringer
+- Sikre at du gir andre argumenter en "fair chance"
+  - Balanser synspunkt
+
+## Ekstra ressurser
+
+- https://libguides.usc.edu/writingguide/academicwriting
+- https://slc.berkeley.edu/writing-worksheets-and-other-writing-resources/nine-basic-ways-improve-your-style-academic-writing
+- https://sokogskriv.no/kjeldebruk/korleis-skal-ein-referere.html
 
 ## Spørsmål
 
